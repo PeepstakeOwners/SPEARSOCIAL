@@ -44,7 +44,7 @@ For instance, any vlogger on Youtube will be able to answer the following questi
 Following are its features that makes it stand out from other tools -
 
 ### Useful Metrics
-Easy to understand metrics and analysis of the data like trending keywords, hashtags, audience sentiments on a particular keyword.
+Easy to understand metrics and analysis of the data like trending keywords, hashtags, audience sentiments on a particular keyword
 
 ![sentiments image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/sentiments.png)
 
