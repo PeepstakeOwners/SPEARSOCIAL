@@ -1,39 +1,9 @@
 # SPEARSOCIAL
-A social media analytical tool that provides the useful insights and metrics that helps in enhancing your social media presence.
-
-![analytics image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/analytics.png)
-
-## What is SpearSocial ?
-
 Spearsocial is a social media analytical tool that provides useful insights and metrics that
 can help online content creators, social media influencers, startups , ecommerce business
-companies etc. to increase their social media presence in a more meaningful way. 
+companies etc. to increase their social media presence in a more meaningful way.
 
-Following are its features that makes it stand out from other tools -
-
-### Useful Metrics
-Easy to understand metrics and analysis of the data like trending keywords, hashtags, audience sentiments on a particular keyword.
-
-![sentiments image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/sentiments.png)
-
-### Gamification 
-Gamified attribute of the product that helps users to increase their growth and number of followers by completing their goals like posting 5 videos in a week etc.
-
-![games image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/gamification.png)
-
-### Content Uploader
-Easily upload your content on the social media apps through SpearSocial with the powerful caption garnished with trending keywords without even opening the official apps.
-
-### Content Schedular
-Time to time content uploading is must to survive in the wild digital world where audience have a volatile memory. To make this task more easy, SpearSocial
-allows you to easily upload your content on the social media platforms on specific days on specific time. Just upload all your content to SpearSocial and schedule the time and date for each content and SpearSocial will automatically upload it on the mentioned day and time without your involvement.
-
-![scheduler image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/scheduler.png)
-
-### Contests / Challenges
-Time to time online contests and challenges for the spearsocial users that can help them to increase their reach, followers and their brand value.
-
-![contests image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/contests.png)
+![analytics image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/analytics.png)
 
 ## How SpearSocial helps ?
 
@@ -69,7 +39,34 @@ For instance, any vlogger on Youtube will be able to answer the following questi
     Which keywords should I use most to get my video viral ?
     What are my potential LEADS that can help to grow my market ?
     
-![influencer image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/socialmediainfluencers.png)
+## What are the features of SpearSocial ?
+
+Following are its features that makes it stand out from other tools -
+
+### Useful Metrics
+Easy to understand metrics and analysis of the data like trending keywords, hashtags, audience sentiments on a particular keyword.
+
+![sentiments image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/sentiments.png)
+
+### Gamification 
+Gamified attribute of the product that helps users to increase their growth and number of followers by completing their goals like posting 5 videos in a week etc.
+
+![games image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/gamification.png)
+
+### Content Uploader
+Easily upload your content on the social media apps through SpearSocial with the powerful caption garnished with trending keywords without even opening the official apps.
+
+### Content Schedular
+Time to time content uploading is must to survive in the wild digital world where audience have a volatile memory. To make this task more easy, SpearSocial
+allows you to easily upload your content on the social media platforms on specific days on specific time. Just upload all your content to SpearSocial and schedule the time and date for each content and SpearSocial will automatically upload it on the mentioned day and time without your involvement.
+
+![scheduler image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/scheduler.png)
+
+### Contests / Challenges
+Time to time online contests and challenges for the spearsocial users that can help them to increase their reach, followers and their brand value.
+
+![contests image](https://github.com/PeepstakeOwners/SPEARSOCIAL/blob/main/images/contests.png)
+
 
 
 
